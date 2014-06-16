@@ -1,4 +1,2 @@
-gaming-the-system
-=================
+# Book Example
 
-Slides for the "Gaming the System" BrisTech talk
