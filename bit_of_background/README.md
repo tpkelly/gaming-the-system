@@ -31,7 +31,7 @@ Scores, points and leaderboards encourage you to "be the best" and beat your hig
 
 "2048" is a very simple version of this, where you have to match up tiles to combine their value without running out of space, while trying to get the 2048 tile.
 
-![2048](http://upload.wikimedia.org/wikipedia/commons/6/64/2048_Screenshot.png)
+![2048](../images/2048.png)
 
 Your score is the total value of each of the tiles on the board, and your level is considered to be the highest-value tile on your board. When comparing scores, players tend to talk a lot more about the highest tile they reached, rather than the scores they gained.
 
@@ -68,11 +68,11 @@ Sometimes the rules are less strict. A dungeon-crawling card game called "Munchk
 
 This even made it into the rules of the cards!
 
-![Cheat With Both Hands](http://www.worldofmunchkin.com/cards/cheatwithbothhands/img/cover_lg.jpg)
+![Cheat With Both Hands](../images/cheatWithBothHands.jpg)
 
 A common enforcement rules in a lot of games is to add a time limit, either on a single player's turn, or the game itself. Chess clocks give each player a set amount of time to perform their moves. When it is the player's turn the clock ticks down, and pauses when it is the other player's turn. Making a move means your clock stops, and the other players' clock starts again.
 
-![Chess Clock, demonstrating a time limit for each player](http://4.bp.blogspot.com/-gHDp-62lrv4/Ul9gdhzYf-I/AAAAAAAABXQ/SvHxSHvsMdQ/s1600/chessclock2.jpg)
+![Chess Clock, demonstrating a time limit for each player](../images/chessclock.jpg)
 
 The time limit does not always need to be an exact clock. The game may increase in difficulty periodically, forcing the players towards a conclusion. This is common in poker tournaments where the initial blinds are increased at set intervals, forcing players to bet larger amounts or go all-in if they cannot meet the blind otherwise.
 
@@ -80,4 +80,4 @@ As a reward for following the rules through to the completion of the game, the p
 
 On the flip side of the rewards for completion are punishments for failure to complete a task. This may be a small penalty, such as a reduction in points or lives, or forcing the player to take a more difficult route towards the goal. It might be an instant failure such as a "Game Over" screen, or an "Insert Credits to Continue" screen from an arcade machine.
 
-![GAME OVER - Sonic the Hedgehog](http://www.vizzed.com/vizzedboard/retro/user_screenshots/saves17/175395/GENESIS--Sonic%20the%20Hedgehog%20Extended%20Edition_Oct5%2022_45_59.png)
+![GAME OVER - Sonic the Hedgehog](../images/gameOver.png)
