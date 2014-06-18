@@ -62,14 +62,22 @@ Rules of play are the basic rules of how the game works; what is and isn't possi
 
 For example, chess moves are strictly defined. A knight move in a very specific way, you cannot take your own pieces, and the king cannot move into check. You win if the opponent is unable to move out of check, or surrenders.
 
-Sometimes the rules are less strict. A dungeon-crawling card game called "Munchkin" encourages players to fight amongst themselves more often than against the monsters they are fighting. Amongst the rules in the rulebook is this gem:
+Sometimes the rules are less strict. A dungeon-crawling card game called "Munchkin" encourages players to fight amongst themselves more often than against the monsters they are fighting. A common house-rule many players adopt is:
 
->*INSERT MUCHKIN RULE HERE*
+>*Cheating is allowed, until you get caught.*
 
-One of the most common enforcement rules is a time limit, either on a single player's turn, or the game itself. Chess clocks give each player a set amount of time to perform their moves. When it is the player's turn the clock ticks down, and pauses when it is the other player's turn. Making a move means your clock stops, and the other players' clock starts again.
+This even made it into the rules of the cards!
+
+![Cheat With Both Hands](http://www.worldofmunchkin.com/cards/cheatwithbothhands/img/cover_lg.jpg)
+
+A common enforcement rules in a lot of games is to add a time limit, either on a single player's turn, or the game itself. Chess clocks give each player a set amount of time to perform their moves. When it is the player's turn the clock ticks down, and pauses when it is the other player's turn. Making a move means your clock stops, and the other players' clock starts again.
+
+![Chess Clock, demonstrating a time limit for each player](http://4.bp.blogspot.com/-gHDp-62lrv4/Ul9gdhzYf-I/AAAAAAAABXQ/SvHxSHvsMdQ/s1600/chessclock2.jpg)
 
 The time limit does not always need to be an exact clock. The game may increase in difficulty periodically, forcing the players towards a conclusion. This is common in poker tournaments where the initial blinds are increased at set intervals, forcing players to bet larger amounts or go all-in if they cannot meet the blind otherwise.
 
 As a reward for following the rules through to the completion of the game, the player might win money or other prizes. Unlockable content especially gives a reward for completing certain challenges, and has become a staple of fighting games like Tekken and Super Smash Bros.
 
-![The character selection screen from Super Smash Bros. Melee, with some characters still to be unlocked in the "?" slots](http://199.101.98.242/media/shots/66416-Super_Smash_Brothers_Melee-11.png)
+On the flip side of the rewards for completion are punishments for failure to complete a task. This might be an instant failure such as a "Game Over" screen, or an "Insert Credits to Continue" screen from an arcade machine. It may be a lesser penalty, such as a reduction in points or lives, or forcing the player to take a more difficult route towards the goal.
+
+![Insert credits to continue](http://broganz.files.wordpress.com/2012/11/0000.png)
