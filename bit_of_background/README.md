@@ -78,6 +78,6 @@ The time limit does not always need to be an exact clock. The game may increase 
 
 As a reward for following the rules through to the completion of the game, the player might win money or other prizes. Unlockable content especially gives a reward for completing certain challenges, and has become a staple of fighting games like Tekken and Super Smash Bros.
 
-On the flip side of the rewards for completion are punishments for failure to complete a task. This might be an instant failure such as a "Game Over" screen, or an "Insert Credits to Continue" screen from an arcade machine. It may be a lesser penalty, such as a reduction in points or lives, or forcing the player to take a more difficult route towards the goal.
+On the flip side of the rewards for completion are punishments for failure to complete a task. This may be a small penalty, such as a reduction in points or lives, or forcing the player to take a more difficult route towards the goal. It might be an instant failure such as a "Game Over" screen, or an "Insert Credits to Continue" screen from an arcade machine.
 
-![Insert credits to continue](http://broganz.files.wordpress.com/2012/11/0000.png)
+![GAME OVER - Sonic the Hedgehog](http://www.vizzed.com/vizzedboard/retro/user_screenshots/saves17/175395/GENESIS--Sonic%20the%20Hedgehog%20Extended%20Edition_Oct5%2022_45_59.png)
