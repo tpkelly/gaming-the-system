@@ -1,4 +1,4 @@
-# Player 2 Joined the Game
+# Player Two
 
 Not all games are single-player. The earliest games to add a second player did so with Co-operative gameplay, having two players go through a level when normally only one would.
 
