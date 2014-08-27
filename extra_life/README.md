@@ -10,7 +10,7 @@ These games allow a unique take on exercise by quantifying weight loss and fitne
 
 Often these games use a levelling system, where performing the lower-level activities rewards you with new content and difficulty levels. In reality, this is helping you slowly scale up the amount of exercise you are doing at a reasonable pace. Expecting a player to immediately run 25 miles on the spot after opening the box would be unreasonable, but having them get used to running one mile on three consecutive workout sessions to unlock 2 miles or 5 miles stops the player working themselves too hard or losing interest too quickly.
 
-## Taking Exergaming outside
+### Taking Exergaming outside
 
 Exergaming is currently undergoing a dramatic shift, as wearables are becoming much more popular and better equipped. SmartWatches are promoting their health apps, allowing tracking of anything from footsteps and running speed to heartrate and even glucose levels, just from being strapped to the wrist.
 

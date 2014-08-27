@@ -1,5 +1,6 @@
 # Summary
 
+* [Introduction](README.md)
 * [Bit of Background](bit_of_background/README.md)
 * [Games for Life](gaming_history/README.md)
 * [Player Two](player_2/README.md)

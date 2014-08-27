@@ -2,7 +2,7 @@
 
 Above all, games need to provide real-time feedback to players, as well as goals to achieve. However not every attempt at gamification has managed to do this.
 
-## Google News
+### Google News
 
 In Late 2011, Google News introduces badges to their news feed. When players read a news article, they were sometimes presented with a badge to appear on their profile.
 
@@ -14,7 +14,7 @@ The badges also had no meaning to the players. They could not be exchanged for a
 
 Had these badges been more open to the players about how much effort was required they might have been seen as more worthwhile, being similar to the badges earned by the Scouts for fire making and safety skills or rope skills.
 
-## Marriott Hotel
+### Marriott Hotel
 
 Another from 2011, the Marriott Hotel group wanted to expand its workforce and hire 50,000 new employees. To do this, they created "My Marriott Hotel"; a Facebook Game similar to Farmville and Restaurant City. Players were tasked with overseeing every aspect of the hotel, starting in the kitchen.
 
