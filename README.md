@@ -8,3 +8,19 @@ I genuinely love games, and have a particular interest in the underlying mechani
 especially amongst marketting teams. Here, I take an overview of where it comes from, what it means, and how it might be useful for your own projects.
 
 Online, I am "Kazenone66", and primarily play on [Xbox Live](http://live.xbox.com/en-US/profile/profile.aspx?GamerTag=Kazenone66). If you want to find out what kind of games I play, I am also on a [stat tracking site](http://www.trueachievements.com/gamerstats.aspx?gamerid=300795) with a good genre breakdown.
+
+## Further Reading
+
+This guide is only intended as a short introduction to Gamification. There are a lot of other great resources out there which delve into much deeper detail. Two books I would personally recommend are [Game of Work](http://www.amazon.co.uk/Game-Work-Enjoy-Much-Play/dp/1423630858/) by Charles Coonradt, and [The Multiplayer Classroom](http://www.amazon.co.uk/The-Multiplayer-Classroom-Designing-Coursework/dp/1435458443) by Lee Sheldon.
+
+### Game of Work
+
+In "Game of Work", Charles Coonradt relates his experiences in the industry for a number of large and small businesses. In particular, he encourages that scores be kept, and that they are easily understandable and available. In turn, this encourages the players to maximise their score, while teaching them the best way to do so.
+
+![Game of Work](../images/GameOfWork.jpg)
+
+### The Multiplayer Classroom
+
+The Multiplayer Classroom is much more focused on applying Gamification to education, however still has much to say about the subject in general. Lee Sheldon relates his experiences as a Professor and Game Designer, applying one ideas such as experience points and quests to coursework and learning. Even the book itself is gamed, with levels instead of chapters!
+
+![The Multiplayer Classroom](../images/MultiplayerClassroom.jpg)
