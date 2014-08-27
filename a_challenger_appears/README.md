@@ -1,10 +1,10 @@
 # A Challenger Appears
 
-On the flip-side of cooperative games are games where players are pitted against eachother, where only one may be the champion. This encourages players not only to be the very best (like no-one ever was), but to do better than their peers. As the other players become stronger, so must you.
+The polar opposite of cooperative games are games where players are pitted against each other, where only one may be the champion. This encourages players not only to be the very best (like no-one ever was), but to do better than their peers. As the other players become stronger, so must you.
 
 ### Foursquare
 
-On the surface, Foursquare is a very simple premise; players can "check in" at any location within a short distance of their GPS coordinates, telling the world where they are and where they've been. Players are awarded badges for completing small objectives, such as "checking in" (registering your presence at a location) a set number of times, or becoming the user to check in the most times over the past 2 months at a location; earning the player the title of "Mayor".
+On the surface, Foursquare is a very simple premise; players can "check in" (registering your presence at a location) at any location within a short distance of their GPS coordinates, telling the world where they are and where they've been. Players are awarded badges for completing small objectives, such as "checking in" a set number of times, or becoming the user to check in the most times over the past 2 months at a location; earning the player the title of "Mayor".
 
 Becoming the Mayor is a big deal in Foursquare. Sometimes this is just for bragging rights, but some locations will offer the Mayor special deals. Starbucks offers the mayor a free coffee on wednesdays (and some stores will even call the Mayor by their title!), Pizza Hut also offers free pizzas once a week to their Mayor, and some American malls have specially reserved parking spaces for the current mall mayor.
 
@@ -19,6 +19,8 @@ As players receive votes, they are awarded points. These points can unlock other
 ![Moderator Priviledges](../images/ModPrivs.png)
 
 Players can also spend some of their accumulated points to vote down an answer which they consider bad enough, or to post bounties (offering points for the best answer). Bounties in particular can be very competitive, as only one user can earn the substantial boost in points.
+
+Overall, this fosters a community of users striving to ask the best questions and give the best answers.
 
 ### The Continuous Integration Game
 
@@ -35,3 +37,5 @@ The plugin maintains a leaderboard of each submitter, giving immediate feedback 
 ![Leaderboard](../images/CILeaderboard.png)
 
 Players are encouraged to write more tests, and make sure everything works before committing to the shared source control, as well as making small, frequent commits.
+
+Nobody wants to be the bottom of the leaderboard, so players strive to become better coders. As they get better they surpass their peers, who in turn strive to improve themselves.
