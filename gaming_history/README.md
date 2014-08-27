@@ -10,3 +10,20 @@ The workers were [divided into two gangs](http://www.touregypt.net/featurestorie
 
 The gangs competed against eachother to be the fastest builders, and there was competition within the gangs amongst phyles, and within phyles amongst teams. Each group competing for the pride of being the better group.
 
+Since then, the idea of using fun and games to encourage work has been used across many areas. To quote Mary Poppins;
+
+>In every job that must be done, there is an element of fun.
+>
+>You find the fun and snap, the job's a game!
+
+For example, the Boy Scouts of America have a leveling system scored on the number of merit badges, as well as service, leadership and "Scout Spirit". Each rank has a unique badge, starting at "Scout", through to "Tenderfoot", "Second Class", "First Class", "Star", "Life" and finally "Eagle".
+
+![Boy Scout of America Badges](../images/Scout_ranks.png)
+
+Each rank has an exact set of requirements to aim towards, and a ceremony at the completion of each rank. This system has seen over 2 million young men achieve Eagle Scout rank since its introduction in 1911.
+
+In 1896, Sperry & Hutchinson introduced S&H Green Stamps as one of the first loyalty schemes. Stamps were given to customers at the checkout of their supermarkets, department stores, or gasoline stations. These stamps could then be redeemed for items in their rewards catalogs.
+
+![S&H Green Stamps](../images/SandHStamps.jpg)
+
+The success of Green Stamps was so great, that at its peak in the 1960s, S&H were printing three times as many stamps as the US Postal Service. They tapped into what is now a common marketting strategy, that small rewards inspire brand loyalty. Americans alone have over 2.6 billion loyalty program memberships, with 22% of households holding a card (of which around 10% are active).

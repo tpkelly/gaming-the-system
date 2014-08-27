@@ -15,12 +15,12 @@ This guide is only intended as a short introduction to Gamification. There are a
 
 ### Game of Work
 
-In "Game of Work", Charles Coonradt relates his experiences in the industry for a number of large and small businesses. In particular, he encourages that scores be kept, and that they are easily understandable and available. In turn, this encourages the players to maximise their score, while teaching them the best way to do so.
+In "Game of Work", Charles Coonradt relates his experiences in the industry for a number of large and small businesses. In particular, he encourages that scores be kept, that they are easily understandable and available, and that feedback is frequently given. In turn, this encourages the players to maximise their score, while teaching them the best way to do so.
 
-![Game of Work](../images/GameOfWork.jpg)
+![Game of Work](images/GameOfWork.jpg)
 
 ### The Multiplayer Classroom
 
 The Multiplayer Classroom is much more focused on applying Gamification to education, however still has much to say about the subject in general. Lee Sheldon relates his experiences as a Professor and Game Designer, applying one ideas such as experience points and quests to coursework and learning. Even the book itself is gamed, with levels instead of chapters!
 
-![The Multiplayer Classroom](../images/MultiplayerClassroom.jpg)
+![The Multiplayer Classroom](images/MultiplayerClassroom.jpg)
