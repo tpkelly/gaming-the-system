@@ -24,3 +24,41 @@ The game was seen as unpolished and slow, with players in the demo having to sta
 
 Players quickly became bored of the game and stopped playing; the entertainment factor was missing. The Marriott Hotel Group had previously promised to add other chapters to the game, but ultimately dropped the idea entirely.
 
+### The Continuous Integration Game (again)
+
+A few chapters ago, we introduced the "Continuous Integration Game", where players are rewarded for adding new tests, and punished for breaking the build. As a reminder:
+
+* Breaking the build (-10)
+* Breaking a broken build (0)
+* Build with no test failures (+1)
+* New test failures (-1 each)
+* New passing tests (+1 each)
+
+The primary issue here is that software developers are smart, and used to analysing systems. Given a game system, it is likely that some will try to exploit the system, and some will even succeed.
+
+For example, a developer might see that an easy way to climb the leaderboard is to focus on adding new passing tests, as these are worth one point each. The original idea behind giving points per test is to encourage small, simple tests be written instead of large sprawling tests covering everything.
+
+The problem arises when the developer starts writing short *meaningless* tests. Testing that the getter and setter for each of their new properties works, or testing that the library they are linking against is doing what it should be.
+
+```
+testFreePoints() {
+   // +1 points for me!
+   expect(true).toEqual(true);
+}
+```
+
+If the developer was just writing empty tests such as above, then we would expect the code review to flag it up. However adding a test for the following might still be a dud test, but would most likely make it past the code review:
+
+```
+testSetterGivesMeFreePoints() {
+    //Given:
+    obj.setValue(5);
+
+    //Then:
+    expect(obj.underlyingValue).toEqual(5);
+}
+```
+
+In contrast, the developer who writes a small test to demonstrate a very tricky bug is spending much time for less points, so would appear lower on the leaderboard.
+
+The culture around the game needs to develop to discourage this kind of point-boosting, while the game itself is developing.
