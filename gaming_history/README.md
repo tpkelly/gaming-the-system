@@ -16,12 +16,15 @@ Since then, the idea of using fun and games to encourage work has been used acro
 >
 >*You find the fun and snap, the job's a game!*
 
-For example, the Boy Scouts of America have a leveling system scored on the number of merit badges, as well as service, leadership and "Scout Spirit". Each rank has a unique badge, starting at "Scout", through to "Tenderfoot", "Second Class", "First Class", "Star", "Life" and finally "Eagle".
+### Level up
+
+The Boy Scouts of America have a rank system scored on the number of merit badges, as well as service, leadership and "Scout Spirit". Each rank has a unique badge, starting at "Scout", through to "Tenderfoot", "Second Class", "First Class", "Star", "Life" and finally "Eagle".
 
 ![Boy Scout of America Badges](../images/Scout_ranks.png)
 
-Each rank has an exact set of requirements to aim towards including earning merit badges (achievements), doing community service (quests), as well as having completed all requirements for the previous rank (level progression).
-This system has seen over 2 million young men achieve Eagle Scout rank since its introduction in 1911.
+Each rank has an exact set of requirements to aim towards including earning merit badges (achievements), doing community service (quests), as well as having completed all requirements for the previous rank (level progression). This system has seen over 2 million young men achieve Eagle Scout rank since its introduction in 1911.
+
+### Loyalty Stamps
 
 In 1896, Sperry & Hutchinson introduced S&H Green Stamps as one of the first loyalty schemes. Stamps were given to customers at the checkout of their supermarkets, department stores, or gasoline stations. These stamps could then be redeemed for items in their rewards catalogs.
 
@@ -30,3 +33,13 @@ In 1896, Sperry & Hutchinson introduced S&H Green Stamps as one of the first loy
 The success of Green Stamps was so great, that at its peak in the 1960s, S&H were printing three times as many stamps as the US Postal Service. They tapped into what is now a common marketting strategy; that small rewards inspire brand loyalty.
 
 Today, Americans alone have over 2.6 billion loyalty program memberships, with 22% of households holding a card (of which around half are active).
+
+### The Great Brain Experiment
+
+The Great Brain Experiment is a project set up to perform neuroscience research in a fun and engaging way. In July 2014, the [first results](http://thegreatbrainexperiment.com/firstpublications) were released which showed an overwhelming level of success for the collection of data.
+
+The experiments performed tested memory, impulsivity, risk-taking and happiness. Instead of performing these tests in a lab with a handful of volunteers, the researchers created a game for each test and bundled them together as part of an app.
+
+![Great Brain Experiment: Impulsivity challenge](../images/Impulsivity.jpg)
+
+The researchers posited that the large number of smartphones would allow them to investigate variability in the population which would not be possible at a laboratory scale. During the first phase of the experiment, 60,000 participants submitted anonymous data, with their performance at in the games as well as age and education data.
