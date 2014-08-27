@@ -1,22 +1,22 @@
 # Bit of Background
 
-To start with, what is Gamification? Taking straight from the Oxford English Dictionary, Gamification is:
+To start with, what is Gamification? Taken straight from the Oxford English Dictionary, Gamification is defined as
 
 >*The application of `typical elements of game playing` to other areas of activity, typically as an online marketing technique to `encourage engagement` with a product or service.”*
 
 So how do we encourage engagement and motivate people? Motivation can (very loosely) be broken down into two types; Internal (or Intrinsic) and External (or Extrinsic) Motivation.
 
-## Motivation
+### Motivation
 
 *Internal Motivation* is motivation from within. This is motivation through having a vested interest in the task at hand. This could be because of a hobby or passion for the task.
 
-*External Motivation* is motivation from outside forces. This is often by being told to do something, the reward of completion of the task, or the punishment for failure to complete the task.
+*External Motivation* is motivation from outside forces. This is often by being told to do something with the reward given on completion of the task, or the punishment given for failure to complete the task.
 
 Both forms of motivation are important. Internal motivation is a much stronger force than External motivation, but also more fragile. If you keep hitting a wall while trying to accomplish a task, the repeated failures can be demoralising and cause you to lose the passion for the task. On the other hand, External motivation is much less likely to go away, but is not as strong as Internal motivation, particularly if you want to do something which doesn't align with the outside forces' desired outcome.
 
-External motivation can also be the demoralising factor which lessens the Internal motivation, especially when it comes to failure mechanics. Imagine that every time you were handed a task at work, you get told "If this isn't done by the end of the day, you're fired". Even if you complete each task on time, you would still feel worse about it than if nothing had been said at all.
+External motivation can also be the demoralising factor which breaks the Internal motivation, especially when it comes to failure mechanics. Imagine that every time you were handed a task at work, you get told "If this isn't done by the end of the day, you're fired". Even if you complete each task on time, you would still feel worse about it than if nothing had been said at all.
 
-## Gaming Motivation
+### Motivation in Games
 
 So how do game mechanics relate to motivation? A lot of the mechanics can be broken down into the two categories;
 
@@ -37,18 +37,18 @@ Your score is the total value of each of the tiles on the board, and your level 
 
 Challenges and Achievements offer goals and tasks for the player to work towards, sometimes set by the game, and sometimes by the player.
 
+The best kind of achievements or challenges are those which ask players to play the game in a different way from the way they would normally. For example, not killing any enemies, playing on the harder difficulties, or searching every corner of the world for collectables and extra background information.
+
 For example, "Metal Gear Solid" has a ranking system given at the end of the game. The better you do at certain aspects of the game each determines part of your rank. The top rank obtainable is "Big Boss" rank, which requires players to;
 
 - Complete the game on the hardest difficulty level
 - Complete it in 3 hours or less
-- Use no continues, or health restoring rations
+- Use no continues, or health-restoring rations
 - Kill 25 or less enemies
 - Never get spotted by an enemy (except where the plot demands it)
 - Save 80 times or less
 
-The best kind of achievements or challenges are those which ask players to play the game in a different way from the way they would normally. For example, not killing any enemies, playing on the harder difficulties, or searching every corner of the world for collectables and extra background information.
-
-Plot is a mechanic shared by any medium of storytelling, be it books, movies, or anecdotes. If the player enjoys the plot, they will want to know what happens next, and how everything will work out in the end.
+Plot is a mechanic shared by any medium of storytelling, be it books, movies, or anecdotes. If the player enjoys the plot, they will want to know what happens next, and how everything will work out in the end. Conversely, lack of interest in the plot, the world, or the characters can lead to the player giving up and finding a different game.
 
 **External Motivation from Games**
 
@@ -58,15 +58,15 @@ Plot is a mechanic shared by any medium of storytelling, be it books, movies, or
 * Money
 * Failure mechanics
 
-Rules of play are the basic rules of how the game works; what is and isn't possible, and how to win. These rules can either be strictly enforced, or there can be punishments for breaking them.
+Rules of play are the basic rules of how the game works; what is and isn't possible, and how to win. These rules can either be strictly enforced to the point where breaking them is impossible, or flexible but with punishments for breaking them.
 
-For example, chess moves are strictly defined. A knight move in a very specific way, you cannot take your own pieces, and the king cannot move into check. You win if the opponent is unable to move out of check, or surrenders.
+For example, chess moves are strictly defined. A knight move in a very specific way, you cannot take your own pieces, and the king cannot move into check. You win if the opponent is unable to escape check, or surrenders.
 
 Sometimes the rules are less strict. A dungeon-crawling card game called "Munchkin" encourages players to fight amongst themselves more often than against the monsters they are fighting. A common house-rule many players adopt is:
 
 >*Cheating is allowed, until you get caught.*
 
-This even made it into the rules of the cards!
+This often translates as players holding more cards in their hands than the rules allow, or equipping lots of "heavy" gear when they should only be allowed one piece at a time.
 
 ![Cheat With Both Hands](../images/cheatWithBothHands.jpg)
 
@@ -78,6 +78,6 @@ The time limit does not always need to be an exact clock. The game may increase 
 
 As a reward for following the rules through to the completion of the game, the player might win money or other prizes. Unlockable content especially gives a reward for completing certain challenges, and has become a staple of fighting games like Tekken and Super Smash Bros.
 
-On the flip side of the rewards for completion are punishments for failure to complete a task. This may be a small penalty, such as a reduction in points or lives, or forcing the player to take a more difficult route towards the goal. It might be an instant failure such as a "Game Over" screen, or an "Insert Credits to Continue" screen from an arcade machine.
+On the flip side of this are the punishments for failure to complete a task. This may be a small penalty, such as a reduction in points or lives, or forcing the player to take a more difficult route towards the goal. It might be an instant failure such as a "Game Over" screen, or an "Insert Credits to Continue" screen from an arcade machine.
 
-![GAME OVER - Sonic the Hedgehog](../images/gameOver.png)
+![GAME OVER - Sonic the Hedgehog](../images/GameOver2.jpg)
