@@ -8,5 +8,6 @@
 * [Extra Life](extra_life/README.md)
 * [Game Over](game_over/README.md)
 * [Epilogue](epilogue/README.md)
+* [Further Reading](further_reading/README.md)
 * [License](licensing/LICENSE.md)
 

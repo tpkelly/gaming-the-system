@@ -6,7 +6,7 @@ Above all, games need to provide real-time feedback to players, as well as goals
 
 In late 2011, Google News introduces badges to their news feed. When players read a news article, they were sometimes presented with a badge to appear on their profile.
 
-![Google Badges](../images/Google Badges Full.jpg)
+![Google Badges](../images/Google Badges.jpg)
 
 Some gamers wanted to rise to the challenge and collect every badge they could. There was just one problem; nobody knew how to do it. Google refused to release an official list of all of the badges or requirements, but players managed to track over 500 different types of badges.
 
