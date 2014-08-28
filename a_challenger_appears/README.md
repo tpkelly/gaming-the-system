@@ -14,7 +14,7 @@ Becoming the Mayor is a big deal in Foursquare. Sometimes this is just for bragg
 
 StackOverflow is another system which on the surface seems very simple. Users ask questions, and other users provide answers. Both questions and answers are given votes for their usefulness and relevance.
 
-As players receive votes, they are awarded points. These points can unlock other priviledges on the site, including moderator abilities.
+As players receive votes, they are awarded points. These points can unlock other privileges on the site, including moderator abilities.
 
 ![Moderator Priviledges](../images/ModPrivs.png)
 

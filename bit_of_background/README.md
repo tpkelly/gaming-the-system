@@ -4,23 +4,23 @@ To start with, what is Gamification? Taken straight from the Oxford English Dict
 
 >*The application of `typical elements of game playing` to other areas of activity, typically as an online marketing technique to `encourage engagement` with a product or service.”*
 
-So how do we encourage engagement and motivate people? Motivation can (very loosely) be broken down into two types; Internal (or Intrinsic) and External (or Extrinsic) Motivation.
+So how do we encourage engagement and motivate people? Motivation can (very loosely) be broken down into two types; internal (or intrinsic) and external (or extrinsic) motivation.
 
 ### Motivation
 
-*Internal Motivation* is motivation from within. This is motivation through having a vested interest in the task at hand. This could be because of a hobby or passion for the task.
+*Internal motivation* is motivation from within. This is motivation through having a vested interest in the task at hand. This could be because of a hobby or passion for the task.
 
-*External Motivation* is motivation from outside forces. This is often by being told to do something with the reward given on completion of the task, or the punishment given for failure to complete the task.
+*External motivation* is motivation from outside forces. This is often by being told to do something with the reward given on completion of the task, or the punishment given for failure to complete the task.
 
-Both forms of motivation are important. Internal motivation is a much stronger force than External motivation, but also more fragile. If you keep hitting a wall while trying to accomplish a task, the repeated failures can be demoralising and cause you to lose the passion for the task. On the other hand, External motivation is much less likely to go away, but is not as strong as Internal motivation, particularly if you want to do something which doesn't align with the outside forces' desired outcome.
+Both forms of motivation are important. Internal motivation is a much stronger force than external motivation, but also more fragile. If you keep hitting a wall while trying to accomplish a task, the repeated failures can be demoralising and cause you to lose the passion for the task. On the other hand, external motivation is much less likely to go away, but is not as strong as Internal motivation, particularly if you want to do something which doesn't align with the outside forces' desired outcome.
 
-External motivation can also be the demoralising factor which breaks the Internal motivation, especially when it comes to failure mechanics. Imagine that every time you were handed a task at work, you get told "If this isn't done by the end of the day, you're fired". Even if you complete each task on time, you would still feel worse about it than if nothing had been said at all.
+External motivation can also be the demoralising factor which breaks the internal motivation, especially when it comes to failure mechanics. Imagine that every time you were handed a task at work, you get told "If this isn't done by the end of the day, you're fired". Even if you complete each task on time, you would still feel worse about it than if nothing had been said at all.
 
 ### Motivation in Games
 
 So how do game mechanics relate to motivation? A lot of the mechanics can be broken down into the two categories;
 
-**Internal Motivation from Games**
+**Internal motivation from Games**
 
 * Points and Score
 * Leaderboards
@@ -50,7 +50,7 @@ For example, "Metal Gear Solid" has a ranking system given at the end of the gam
 
 Plot is a mechanic shared by any medium of storytelling, be it books, movies, or anecdotes. If the player enjoys the plot, they will want to know what happens next, and how everything will work out in the end. Conversely, lack of interest in the plot, the world, or the characters can lead to the player giving up and finding a different game.
 
-**External Motivation from Games**
+**External motivation from Games**
 
 * Rules of play
 * Time limits

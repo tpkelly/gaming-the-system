@@ -4,7 +4,7 @@ Above all, games need to provide real-time feedback to players, as well as goals
 
 ### Google News
 
-In Late 2011, Google News introduces badges to their news feed. When players read a news article, they were sometimes presented with a badge to appear on their profile.
+In late 2011, Google News introduces badges to their news feed. When players read a news article, they were sometimes presented with a badge to appear on their profile.
 
 ![Google Badges](../images/Google Badges Full.jpg)
 
@@ -16,7 +16,7 @@ Had these badges been more open to the players about how much effort was require
 
 ### Marriott Hotel
 
-Another from 2011, the Marriott Hotel group wanted to expand its workforce and hire 50,000 new employees. To do this, they created "My Marriott Hotel"; a Facebook Game similar to Farmville and Restaurant City. Players were tasked with overseeing every aspect of the hotel, starting in the kitchen.
+Another from 2011, the Marriott Hotel group wanted to expand its workforce and hire 50,000 new employees. To do this, they created "My Marriott Hotel"; a Facebook game similar to Farmville and Restaurant City. Players were tasked with overseeing every aspect of the hotel, starting in the kitchen.
 
 ![My Marriott Hotel](../images/my-marriott.jpg)
 

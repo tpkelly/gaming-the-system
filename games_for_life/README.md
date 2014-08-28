@@ -30,7 +30,7 @@ In 1896, Sperry & Hutchinson introduced S&H Green Stamps as one of the first loy
 
 ![S&H Green Stamps](../images/SandHStamps.jpg)
 
-The success of Green Stamps was so great, that at its peak in the 1960s, S&H were printing three times as many stamps as the US Postal Service. They tapped into what is now a common marketting strategy; that small rewards inspire brand loyalty.
+The success of Green Stamps was so great, that at its peak in the 1960s, S&H were printing three times as many stamps as the US Postal Service. They tapped into what is now a common marketing strategy; that small rewards inspire brand loyalty.
 
 Today, Americans alone have over 2.6 billion loyalty program memberships, with 22% of households holding a card (of which around half are active).
 
@@ -42,4 +42,4 @@ The experiments performed tested memory, impulsivity, risk-taking and happiness.
 
 ![Great Brain Experiment: Impulsivity challenge](../images/Impulsivity.jpg)
 
-The researchers posited that the large number of smartphones would allow them to investigate variability in the population which would not be possible at a laboratory scale. During the first phase of the experiment, 60,000 participants submitted anonymous data, with their performance at in the games as well as age and education data.
+The researchers posited that the large number of smartphones would allow them to investigate variability in the population which would not be possible at a laboratory scale. During the first phase of the experiment, 60,000 participants submitted anonymous data, with their performance, age and level of education.
